@@ -9,3 +9,7 @@ This is a Laravel application to work with laravel broadcasting from the backend
 4. In development, start the queue listener with ```php artisan queue:listen```
 5. Additionally, start the laravel echo server with the command ```laravel-echo-server start```
 6. Last but not least, serve the application ```php artisan serve``` and view it on the browser
+
+
+## Demo
+![Screenshot 1](https://github.com/lawrence615/laravel5-broadcasting/blob/master/screenshots/demo.gif)
